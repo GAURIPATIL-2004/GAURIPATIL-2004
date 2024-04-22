@@ -1,4 +1,4 @@
-<center>![logo](https://github.com/GAURIPATIL-2004/GAURIPATIL-2004/blob/main/baner.jpg)</center>
+![logo](https://github.com/GAURIPATIL-2004/GAURIPATIL-2004/blob/main/baner.jpg)
 
 <h1 align="center">Hi 👋, I'm Gauri Laxman Patil</h1>
 <h3 align="center">A passionate student from India</h3>
