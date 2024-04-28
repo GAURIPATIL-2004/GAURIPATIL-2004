@@ -4,7 +4,6 @@
 <h3 align="center">A passionate computer science student from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauripatil-2004&label=Profile%20views&color=0e75b6&style=flat" alt="gauripatil-2004" /> </p>
 
-- 🌱 I’m currently learning **react**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
