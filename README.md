@@ -2,8 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Gauri Laxman Patil</h1>
 <h3 align="center">A passionate computer science student from India</h3>
+<p align="center">
+  <img src="https://link-to-your-gif.com/animated-hand.gif" alt="Waving Hand" width="50" height="50" />
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauripatil-2004&label=Profile%20views&color=0e75b6&style=flat" alt="gauripatil-2004" /> </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
