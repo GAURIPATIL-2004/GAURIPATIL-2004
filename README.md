@@ -16,4 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauripatil-2004&show_icons=true&locale=en&layout=compact" alt="gauripatil-2004" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauripatil-2004&show_icons=true&locale=en" alt="gauripatil-2004" /></p>
-
