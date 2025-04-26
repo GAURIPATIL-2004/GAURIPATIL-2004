@@ -19,5 +19,12 @@
 [![](https://visitcount.itsvg.in/api?id=GAURIPATIL-2004&icon=7&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img src="https://raw.githubusercontent.com/GAURIPATIL-2004/GAURIPATIL-2004/output/snake.svg" alt="Snake animation" />
 
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
