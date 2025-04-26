@@ -1,6 +1,7 @@
 # 💫 About Me:
 Inspired by the endless possibilities of the digital world, I’m a passionate Computer Science graduate from Mumbai University with a specialization in web development. Currently sharpening my skills in Data Analytics through a master's program, I aim to fuse data insights with modern web technologies to solve real-world issues.
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauripatil1911/) 
@@ -16,9 +17,16 @@ Inspired by the endless possibilities of the digital world, I’m a passionate C
 [![](https://visitcount.itsvg.in/api?id=GAURIPATIL-2004&icon=9&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-###
+
+
+
+
+
 
 <br clear="both">
+
+
+###
 
 <img src="https://raw.githubusercontent.com/GAURIPATIL-2004/GAURIPATIL-2004/output/snake.svg" alt="Snake animation" />
 
