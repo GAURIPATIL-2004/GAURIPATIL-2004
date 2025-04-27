@@ -28,6 +28,6 @@ Inspired by the endless possibilities of the digital world, I’m a passionate C
 
 ###
 
-<img src="https://raw.githubusercontent.com/GAURIPATIL-2004/GAURIPATIL-2004/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/GAURIPATIL-2004/GAURIPATIL-2004/blob/output/github-snake-dark.svg" alt="Snake animation" />
 
 ###
