@@ -1,7 +1,7 @@
 # 💫 About Me:
 Inspired by the endless possibilities of the digital world, I’m a passionate Computer Science graduate from Mumbai University with a specialization in web development. Currently sharpening my skills in Data Analytics through a master's program, I aim to fuse data insights with modern web technologies to solve real-world issues.
 
-<img align="right" height="150" src="[ https://i.imgflip.com/65efzo.gif](https://www.google.com/imgres?q=gif%20cute%20girl%20anime%20on%20computer%20dark%20background&imgurl=https%3A%2F%2Fwallpapers.com%2Fimages%2Fhd%2Fgirl-with-laptop-dark-anime-aesthetic-desktop-pbbtfuponjhnk8x1.jpg&imgrefurl=https%3A%2F%2Fwallpapers.com%2Fanime-girl&docid=aaXSIQaLD5yzkM&tbnid=EH103m3gaqZi5M&vet=12ahUKEwjrh7OCoPqMAxXRj68BHeR0JssQM3oFCIEBEAA..i&w=1920&h=1200&hcb=2&ved=2ahUKEwjrh7OCoPqMAxXRj68BHeR0JssQM3oFCIEBEAA)" />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauripatil1911/) 
