@@ -1,7 +1,7 @@
 # 💫 About Me:
 Inspired by the endless possibilities of the digital world, I’m a passionate Computer Science graduate from Mumbai University with a specialization in web development. Currently sharpening my skills in Data Analytics through a master's program, I aim to fuse data insights with modern web technologies to solve real-world issues.
 
-<img align="right" height="150" src="https://github.com/GAURIPATIL-2004/GAURIPATIL-2004/blob/main/9s6jw6.gif" />
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3BuNTh0OGgzcTE3MHlrcWp4Ym0zeGpoempnaHlwdmhubTBzbGZ5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" />
 
 
 
