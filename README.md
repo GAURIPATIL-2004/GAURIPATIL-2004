@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 Inspired by the endless possibilities of the digital world, I’m a passionate Computer Science graduate from Mumbai University with a specialization in web development. Currently sharpening my skills in Data Analytics through a master's program, I aim to fuse data insights with modern web technologies to solve real-world issues.
 
 # ✨💻👌 Stable Code Edition
