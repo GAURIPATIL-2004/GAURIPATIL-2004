@@ -5,8 +5,10 @@ Inspired by the endless possibilities of the digital world, I’m a passionate C
 <img align="center" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3BuNTh0OGgzcTE3MHlrcWp4Ym0zeGpoempnaHlwdmhubTBzbGZ5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" />
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauripatil1911/) 
+
 
 
 # 💻 Tech Stack:
